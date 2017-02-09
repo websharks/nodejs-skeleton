@@ -7,7 +7,7 @@
   "license": "GPL-3.0",
   "author": "websharks",
   "keywords": [],
-  "main": "./cmp/index.js",
+  "main": "./src/index.js",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^7.0.5",
